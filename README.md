@@ -1,2 +1,2 @@
 # demo-repo
-my first gir repository
+my first git repository
